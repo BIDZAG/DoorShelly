@@ -1,9 +1,0 @@
-C:\Users\Sako\Documents\GitHub\DoorShelly\CoreSystem\obj\Debug\net8.0\CoreSystem.csproj.AssemblyReference.cache
-C:\Users\Sako\Documents\GitHub\DoorShelly\CoreSystem\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\Sako\Documents\GitHub\DoorShelly\CoreSystem\obj\Debug\net8.0\CoreSystem.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Sako\Documents\GitHub\DoorShelly\CoreSystem\obj\Debug\net8.0\CoreSystem.AssemblyInfoInputs.cache
-C:\Users\Sako\Documents\GitHub\DoorShelly\CoreSystem\obj\Debug\net8.0\CoreSystem.AssemblyInfo.cs
-C:\Users\Sako\Documents\GitHub\DoorShelly\CoreSystem\obj\Debug\net8.0\CoreSystem.csproj.CoreCompileInputs.cache
-C:\Users\Sako\Documents\GitHub\DoorShelly\CoreSystem\obj\Debug\net8.0\CoreSystem.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Sako\Documents\GitHub\DoorShelly\CoreSystem\obj\Debug\net8.0\CoreSystem.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Sako\Documents\GitHub\DoorShelly\CoreSystem\obj\Debug\net8.0\CoreSystem.sourcelink.json
