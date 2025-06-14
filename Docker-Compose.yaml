@@ -1,0 +1,19 @@
+version: '3.8'
+services:
+  core-system:
+    build: ./CoreSystem
+    ports:
+      - "5000:5000"
+    networks:
+      - sr-monitor-net
+
+  sensor-appliance:
+    build: ./SensorAppliance
+    depends_on:
+      - core-system
+    networks:
+      - sr-monitor-net
+
+networks:
+  sr-monitor-net:
+    driver: bridge
